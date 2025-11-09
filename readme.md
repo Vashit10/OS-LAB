@@ -1,6 +1,6 @@
-## Xv6 Operating System LAb
+# Xv6 Operating System LAB
 
-# 📘 Overview
+##📘 Overview
 This repository contains lab work for the **Operating Systems Course**, focusing on hands-on learning of core OS concepts using the **Xv6** teaching operating system.
 
 Each assignment explores foundational OS principles such as:
